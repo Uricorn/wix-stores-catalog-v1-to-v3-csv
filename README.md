@@ -2,7 +2,7 @@
 
 Convert a **Catalog V1** Wix Stores product export into a **Catalog V3** CSV ready for dashboard import.
 
-Built from real-world migration testing (197-product catalog). Handles the Wix import quirks that cause partial category creation on first upload.
+This was vibe coded and likely contains some mistakes depending on your flow. Only a simple migration was tested - treat this as a proof of concept.
 
 ## Quick start
 
